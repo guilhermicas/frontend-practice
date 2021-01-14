@@ -1,0 +1,55 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+a {
+	text-decoration:none;
+}
+
+.nav-menu {
+	background-color:#000;
+	color:#fff;
+	height:5vh;
+}
+
+.nav-elems {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	list-style:none;
+}
+
+.nav-elems > li {
+	margin:10px 20px;
+}
+
+.nav-elems > li > a {
+	color:#fff;
+}
+
+.sobre-mim {
+	width:100vw;
+	height:95vh;
+	background-color:gray;
+}
+
+.container-info {
+	margin:auto;
+	padding-top:30vh;
+	width:70%;
+}
+
+.container-info > h1 {
+	color:#fff;
+	font-size:60px;
+	padding-bottom:20px;
+	text-shadow:0px 2px 8px darkgray;
+}
+
+.container-info > p {
+	color:#fff;
+	font-size:18px;
+	text-shadow:0px 2px 8px darkgray;
+}
