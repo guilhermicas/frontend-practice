@@ -21,3 +21,25 @@
 /React/learning/npm-debug.log*
 /React/learning/yarn-debug.log*
 /React/learning/yarn-error.log*
+
+#
+/React/todo-app/node_modules
+/React/todo-app/.pnp
+/React/todo-app/pnp.js
+
+# testing
+/React/todo-app/coverage
+
+# production
+/React/todo-app/build
+
+# misc
+/React/todo-app/.DS_Store
+/React/todo-app/.env.local
+/React/todo-app/.env.development.local
+/React/todo-app/.env.test.local
+/React/todo-app/.env.production.local
+ 
+/React/todo-app/npm-debug.log*
+/React/todo-app/yarn-debug.log*
+/React/todo-app/yarn-error.log*
