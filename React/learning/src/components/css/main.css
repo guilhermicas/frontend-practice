@@ -1,0 +1,8 @@
+main {
+  text-align: center;
+  height: 88vh;
+}
+
+main > p:first-child {
+  padding-top: 30px;
+}

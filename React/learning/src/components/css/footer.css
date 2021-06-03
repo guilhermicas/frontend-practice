@@ -1,0 +1,10 @@
+footer {
+  height: 8vh;
+  color: whitesmoke;
+  background-color: black;
+  text-align: center;
+}
+
+footer > p {
+  padding-top: 10px;
+}

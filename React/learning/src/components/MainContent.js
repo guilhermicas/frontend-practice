@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-//import "../css/header.css";
+import "./css/main.css";
 
 function MainContent() {
   let [isMorning, setIsMorning] = useState(true);
