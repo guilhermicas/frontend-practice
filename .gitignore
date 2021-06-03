@@ -1,1 +1,23 @@
-base
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+./React/learning/node_modules
+./React/learning/.pnp
+./React/learning/pnp.js
+
+# testing
+./React/learning/coverage
+
+# production
+./React/learning/build
+
+# misc
+./React/learning/.DS_Store
+./React/learning/.env.local
+./React/learning/.env.development.local
+./React/learning/.env.test.local
+./React/learning/.env.production.local
+ 
+./React/learning/npm-debug.log*
+./React/learning/yarn-debug.log*
+./React/learning/yarn-error.log*
