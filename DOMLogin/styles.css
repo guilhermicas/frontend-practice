@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #698a99;
+}
+
+.master-container {
+  width: 30vw;
+  margin: auto;
+  margin-top: 32vh;
+}
+
+.login-parent-container {
+  width: 80%;
+  margin: auto;
+  background-color: #ffffff;
+  overflow:auto;
+}
+
+.login-container{
+  float:left;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.submitBtn-container  {
+  float: left;
+  box-sizing: border-box;
+}
+
+.submitBtn {
+  width: 100%;
+  float: left;
+  height: 100%;
+}
